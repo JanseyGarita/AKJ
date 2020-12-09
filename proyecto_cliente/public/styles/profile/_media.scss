@@ -1,0 +1,40 @@
+@media (max-width: 480px) {
+    ul.nav {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .profile-head {
+        h5,
+        a {
+            position: relative;
+            margin: 5px;
+            left: 50%;
+            transform: translateX(-50%);
+        }
+        h5 {
+            width: fit-content;
+        }
+        a{
+            margin-bottom: 2em;
+        }
+    }
+    #home {
+        &,
+        form .row .col-md-4,
+        form .row .col-md-8,
+        form .col-md-7 {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+    }
+    .isotope{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #delete_profile{
+        margin: 3em 2em 2em 0;
+    }
+}

@@ -1,0 +1,12 @@
+
+*.v2
+api_rest/.vs/api_rest/DesignTimeBuild/.dtbcache.v2
+api_rest/.vs/api_rest/v16/.suo
+api_rest/api_rest/bin/Debug/netcoreapp3.1/api_rest.dll
+api_rest/api_rest/bin/Debug/netcoreapp3.1/api_rest.pdb
+api_rest/api_rest/obj/Debug/netcoreapp3.1/api_rest.csprojAssemblyReference.cache
+api_rest/api_rest/obj/Debug/netcoreapp3.1/api_rest.dll
+api_rest/api_rest/obj/Debug/netcoreapp3.1/api_rest.pdb
+api_rest/api_rest/bin/Debug/netcoreapp3.1/api_rest.dll
+*.dll
+api_rest/api_rest/bin/Debug/netcoreapp3.1/api_rest.dll

@@ -1,0 +1,176 @@
+C:\xampp\htdocs\PROYECTO FINAL\Proyecto-Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\xampp\htdocs\PROYECTO FINAL\Proyecto-Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\appsettings.json
+C:\xampp\htdocs\PROYECTO FINAL\Proyecto-Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\xampp\htdocs\PROYECTO FINAL\Proyecto-Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\api_rest.exe
+C:\xampp\htdocs\PROYECTO FINAL\Proyecto-Final\api_rest\api_rest\obj\Debug\netcoreapp3.1\api_rest.csprojAssemblyReference.cache
+C:\xampp\htdocs\PROYECTO FINAL\Proyecto-Final\api_rest\api_rest\obj\Debug\netcoreapp3.1\api_rest.AssemblyInfoInputs.cache
+C:\xampp\htdocs\PROYECTO FINAL\Proyecto-Final\api_rest\api_rest\obj\Debug\netcoreapp3.1\api_rest.AssemblyInfo.cs
+C:\xampp\htdocs\PROYECTO FINAL\Proyecto-Final\api_rest\api_rest\obj\Debug\netcoreapp3.1\api_rest.RazorTargetAssemblyInfo.cache
+C:\xampp\htdocs\PROYECTO FINAL\Proyecto-Final\api_rest\api_rest\obj\Debug\netcoreapp3.1\staticwebassets\api_rest.StaticWebAssets.Manifest.cache
+C:\xampp\htdocs\PROYECTO FINAL\Proyecto-Final\api_rest\api_rest\obj\Debug\netcoreapp3.1\staticwebassets\api_rest.StaticWebAssets.xml
+C:\xampp\htdocs\PROYECTO FINAL\Proyecto-Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\xampp\htdocs\PROYECTO FINAL\Proyecto-Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\xampp\htdocs\PROYECTO FINAL\Proyecto-Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\xampp\htdocs\PROYECTO FINAL\Proyecto-Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\xampp\htdocs\PROYECTO FINAL\Proyecto-Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\xampp\htdocs\PROYECTO FINAL\Proyecto-Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\xampp\htdocs\PROYECTO FINAL\Proyecto-Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\xampp\htdocs\PROYECTO FINAL\Proyecto-Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\xampp\htdocs\PROYECTO FINAL\Proyecto-Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\xampp\htdocs\PROYECTO FINAL\Proyecto-Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\xampp\htdocs\PROYECTO FINAL\Proyecto-Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\xampp\htdocs\PROYECTO FINAL\Proyecto-Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\xampp\htdocs\PROYECTO FINAL\Proyecto-Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\xampp\htdocs\PROYECTO FINAL\Proyecto-Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\xampp\htdocs\PROYECTO FINAL\Proyecto-Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\xampp\htdocs\PROYECTO FINAL\Proyecto-Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\xampp\htdocs\PROYECTO FINAL\Proyecto-Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\xampp\htdocs\PROYECTO FINAL\Proyecto-Final\api_rest\api_rest\obj\Debug\netcoreapp3.1\api_rest.csproj.CopyComplete
+C:\xampp\htdocs\PROYECTO FINAL\Proyecto-Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\api_rest.deps.json
+C:\xampp\htdocs\PROYECTO FINAL\Proyecto-Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\api_rest.runtimeconfig.json
+C:\xampp\htdocs\PROYECTO FINAL\Proyecto-Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\api_rest.runtimeconfig.dev.json
+C:\xampp\htdocs\PROYECTO FINAL\Proyecto-Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\api_rest.dll
+C:\xampp\htdocs\PROYECTO FINAL\Proyecto-Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\api_rest.pdb
+C:\xampp\htdocs\PROYECTO FINAL\Proyecto-Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\xampp\htdocs\PROYECTO FINAL\Proyecto-Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\xampp\htdocs\PROYECTO FINAL\Proyecto-Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\xampp\htdocs\PROYECTO FINAL\Proyecto-Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\xampp\htdocs\PROYECTO FINAL\Proyecto-Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\xampp\htdocs\PROYECTO FINAL\Proyecto-Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\xampp\htdocs\PROYECTO FINAL\Proyecto-Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\xampp\htdocs\PROYECTO FINAL\Proyecto-Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\xampp\htdocs\PROYECTO FINAL\Proyecto-Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\xampp\htdocs\PROYECTO FINAL\Proyecto-Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\xampp\htdocs\PROYECTO FINAL\Proyecto-Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\xampp\htdocs\PROYECTO FINAL\Proyecto-Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\xampp\htdocs\PROYECTO FINAL\Proyecto-Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\xampp\htdocs\PROYECTO FINAL\Proyecto-Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\xampp\htdocs\PROYECTO FINAL\Proyecto-Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\xampp\htdocs\PROYECTO FINAL\Proyecto-Final\api_rest\api_rest\obj\Debug\netcoreapp3.1\api_rest.dll
+C:\xampp\htdocs\PROYECTO FINAL\Proyecto-Final\api_rest\api_rest\obj\Debug\netcoreapp3.1\api_rest.pdb
+C:\xampp\htdocs\PROYECTO FINAL\Proyecto-Final\api_rest\api_rest\obj\Debug\netcoreapp3.1\api_rest.genruntimeconfig.cache
+C:\xampp\htdocs\PROYECTO FINAL\Proyecto-Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\xampp\htdocs\PROYECTO FINAL\Proyecto-Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\xampp\htdocs\PROYECTO FINAL\Proyecto-Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\xampp\htdocs\PROYECTO FINAL\Proyecto-Final\api_rest\api_rest\obj\Debug\netcoreapp3.1\api_rest.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\PROYECTO FINAL\Proyecto-Final\api_rest\api_rest\obj\Debug\netcoreapp3.1\api_rest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\keilo\OneDrive\Escritorio\RESPALDO-DE-API-AUTOS\api_rest\api_rest\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\keilo\OneDrive\Escritorio\RESPALDO-DE-API-AUTOS\api_rest\api_rest\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\keilo\OneDrive\Escritorio\RESPALDO-DE-API-AUTOS\api_rest\api_rest\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\keilo\OneDrive\Escritorio\RESPALDO-DE-API-AUTOS\api_rest\api_rest\bin\Debug\netcoreapp3.1\api_rest.exe
+C:\Users\keilo\OneDrive\Escritorio\RESPALDO-DE-API-AUTOS\api_rest\api_rest\bin\Debug\netcoreapp3.1\api_rest.deps.json
+C:\Users\keilo\OneDrive\Escritorio\RESPALDO-DE-API-AUTOS\api_rest\api_rest\bin\Debug\netcoreapp3.1\api_rest.runtimeconfig.json
+C:\Users\keilo\OneDrive\Escritorio\RESPALDO-DE-API-AUTOS\api_rest\api_rest\bin\Debug\netcoreapp3.1\api_rest.runtimeconfig.dev.json
+C:\Users\keilo\OneDrive\Escritorio\RESPALDO-DE-API-AUTOS\api_rest\api_rest\bin\Debug\netcoreapp3.1\api_rest.dll
+C:\Users\keilo\OneDrive\Escritorio\RESPALDO-DE-API-AUTOS\api_rest\api_rest\bin\Debug\netcoreapp3.1\api_rest.pdb
+C:\Users\keilo\OneDrive\Escritorio\RESPALDO-DE-API-AUTOS\api_rest\api_rest\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\keilo\OneDrive\Escritorio\RESPALDO-DE-API-AUTOS\api_rest\api_rest\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\keilo\OneDrive\Escritorio\RESPALDO-DE-API-AUTOS\api_rest\api_rest\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\keilo\OneDrive\Escritorio\RESPALDO-DE-API-AUTOS\api_rest\api_rest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\keilo\OneDrive\Escritorio\RESPALDO-DE-API-AUTOS\api_rest\api_rest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\keilo\OneDrive\Escritorio\RESPALDO-DE-API-AUTOS\api_rest\api_rest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\keilo\OneDrive\Escritorio\RESPALDO-DE-API-AUTOS\api_rest\api_rest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\keilo\OneDrive\Escritorio\RESPALDO-DE-API-AUTOS\api_rest\api_rest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\keilo\OneDrive\Escritorio\RESPALDO-DE-API-AUTOS\api_rest\api_rest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\keilo\OneDrive\Escritorio\RESPALDO-DE-API-AUTOS\api_rest\api_rest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\keilo\OneDrive\Escritorio\RESPALDO-DE-API-AUTOS\api_rest\api_rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\keilo\OneDrive\Escritorio\RESPALDO-DE-API-AUTOS\api_rest\api_rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\keilo\OneDrive\Escritorio\RESPALDO-DE-API-AUTOS\api_rest\api_rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\keilo\OneDrive\Escritorio\RESPALDO-DE-API-AUTOS\api_rest\api_rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\keilo\OneDrive\Escritorio\RESPALDO-DE-API-AUTOS\api_rest\api_rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\keilo\OneDrive\Escritorio\RESPALDO-DE-API-AUTOS\api_rest\api_rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\keilo\OneDrive\Escritorio\RESPALDO-DE-API-AUTOS\api_rest\api_rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\keilo\OneDrive\Escritorio\RESPALDO-DE-API-AUTOS\api_rest\api_rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\keilo\OneDrive\Escritorio\RESPALDO-DE-API-AUTOS\api_rest\api_rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\keilo\OneDrive\Escritorio\RESPALDO-DE-API-AUTOS\api_rest\api_rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\keilo\OneDrive\Escritorio\RESPALDO-DE-API-AUTOS\api_rest\api_rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\keilo\OneDrive\Escritorio\RESPALDO-DE-API-AUTOS\api_rest\api_rest\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\keilo\OneDrive\Escritorio\RESPALDO-DE-API-AUTOS\api_rest\api_rest\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\keilo\OneDrive\Escritorio\RESPALDO-DE-API-AUTOS\api_rest\api_rest\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\keilo\OneDrive\Escritorio\RESPALDO-DE-API-AUTOS\api_rest\api_rest\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\keilo\OneDrive\Escritorio\RESPALDO-DE-API-AUTOS\api_rest\api_rest\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\keilo\OneDrive\Escritorio\RESPALDO-DE-API-AUTOS\api_rest\api_rest\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\keilo\OneDrive\Escritorio\RESPALDO-DE-API-AUTOS\api_rest\api_rest\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\keilo\OneDrive\Escritorio\RESPALDO-DE-API-AUTOS\api_rest\api_rest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\keilo\OneDrive\Escritorio\RESPALDO-DE-API-AUTOS\api_rest\api_rest\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\keilo\OneDrive\Escritorio\RESPALDO-DE-API-AUTOS\api_rest\api_rest\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\keilo\OneDrive\Escritorio\RESPALDO-DE-API-AUTOS\api_rest\api_rest\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\keilo\OneDrive\Escritorio\RESPALDO-DE-API-AUTOS\api_rest\api_rest\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\keilo\OneDrive\Escritorio\RESPALDO-DE-API-AUTOS\api_rest\api_rest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\keilo\OneDrive\Escritorio\RESPALDO-DE-API-AUTOS\api_rest\api_rest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\keilo\OneDrive\Escritorio\RESPALDO-DE-API-AUTOS\api_rest\api_rest\obj\Debug\netcoreapp3.1\api_rest.csprojAssemblyReference.cache
+C:\Users\keilo\OneDrive\Escritorio\RESPALDO-DE-API-AUTOS\api_rest\api_rest\obj\Debug\netcoreapp3.1\api_rest.AssemblyInfoInputs.cache
+C:\Users\keilo\OneDrive\Escritorio\RESPALDO-DE-API-AUTOS\api_rest\api_rest\obj\Debug\netcoreapp3.1\api_rest.AssemblyInfo.cs
+C:\Users\keilo\OneDrive\Escritorio\RESPALDO-DE-API-AUTOS\api_rest\api_rest\obj\Debug\netcoreapp3.1\api_rest.csproj.CoreCompileInputs.cache
+C:\Users\keilo\OneDrive\Escritorio\RESPALDO-DE-API-AUTOS\api_rest\api_rest\obj\Debug\netcoreapp3.1\api_rest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\keilo\OneDrive\Escritorio\RESPALDO-DE-API-AUTOS\api_rest\api_rest\obj\Debug\netcoreapp3.1\api_rest.RazorTargetAssemblyInfo.cache
+C:\Users\keilo\OneDrive\Escritorio\RESPALDO-DE-API-AUTOS\api_rest\api_rest\obj\Debug\netcoreapp3.1\api_rest.csproj.CopyComplete
+C:\Users\keilo\OneDrive\Escritorio\RESPALDO-DE-API-AUTOS\api_rest\api_rest\obj\Debug\netcoreapp3.1\staticwebassets\api_rest.StaticWebAssets.Manifest.cache
+C:\Users\keilo\OneDrive\Escritorio\RESPALDO-DE-API-AUTOS\api_rest\api_rest\obj\Debug\netcoreapp3.1\staticwebassets\api_rest.StaticWebAssets.xml
+C:\Users\keilo\OneDrive\Escritorio\RESPALDO-DE-API-AUTOS\api_rest\api_rest\obj\Debug\netcoreapp3.1\api_rest.dll
+C:\Users\keilo\OneDrive\Escritorio\RESPALDO-DE-API-AUTOS\api_rest\api_rest\obj\Debug\netcoreapp3.1\api_rest.pdb
+C:\Users\keilo\OneDrive\Escritorio\RESPALDO-DE-API-AUTOS\api_rest\api_rest\obj\Debug\netcoreapp3.1\api_rest.genruntimeconfig.cache
+C:\Users\Jan Garita\Desktop\Proyectos WEB\Lenguajes\Proyecto Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\Release\web.config
+C:\Users\Jan Garita\Desktop\Proyectos WEB\Lenguajes\Proyecto Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Jan Garita\Desktop\Proyectos WEB\Lenguajes\Proyecto Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Jan Garita\Desktop\Proyectos WEB\Lenguajes\Proyecto Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Jan Garita\Desktop\Proyectos WEB\Lenguajes\Proyecto Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.autos-ventas - Web Deploy.json
+C:\Users\Jan Garita\Desktop\Proyectos WEB\Lenguajes\Proyecto Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+C:\Users\Jan Garita\Desktop\Proyectos WEB\Lenguajes\Proyecto Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\Release\api_rest.deps.json
+C:\Users\Jan Garita\Desktop\Proyectos WEB\Lenguajes\Proyecto Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\Release\api_rest.runtimeconfig.json
+C:\Users\Jan Garita\Desktop\Proyectos WEB\Lenguajes\Proyecto Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\Release\appsettings.Development.json
+C:\Users\Jan Garita\Desktop\Proyectos WEB\Lenguajes\Proyecto Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\Release\appsettings.json
+C:\Users\Jan Garita\Desktop\Proyectos WEB\Lenguajes\Proyecto Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\web.config
+C:\Users\Jan Garita\Desktop\Proyectos WEB\Lenguajes\Proyecto Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\api_rest.exe
+C:\Users\Jan Garita\Desktop\Proyectos WEB\Lenguajes\Proyecto Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\api_rest.deps.json
+C:\Users\Jan Garita\Desktop\Proyectos WEB\Lenguajes\Proyecto Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\api_rest.runtimeconfig.json
+C:\Users\Jan Garita\Desktop\Proyectos WEB\Lenguajes\Proyecto Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\api_rest.runtimeconfig.dev.json
+C:\Users\Jan Garita\Desktop\Proyectos WEB\Lenguajes\Proyecto Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\api_rest.dll
+C:\Users\Jan Garita\Desktop\Proyectos WEB\Lenguajes\Proyecto Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\api_rest.pdb
+C:\Users\Jan Garita\Desktop\Proyectos WEB\Lenguajes\Proyecto Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jan Garita\Desktop\Proyectos WEB\Lenguajes\Proyecto Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Jan Garita\Desktop\Proyectos WEB\Lenguajes\Proyecto Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jan Garita\Desktop\Proyectos WEB\Lenguajes\Proyecto Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jan Garita\Desktop\Proyectos WEB\Lenguajes\Proyecto Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jan Garita\Desktop\Proyectos WEB\Lenguajes\Proyecto Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Jan Garita\Desktop\Proyectos WEB\Lenguajes\Proyecto Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jan Garita\Desktop\Proyectos WEB\Lenguajes\Proyecto Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Jan Garita\Desktop\Proyectos WEB\Lenguajes\Proyecto Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Jan Garita\Desktop\Proyectos WEB\Lenguajes\Proyecto Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\Jan Garita\Desktop\Proyectos WEB\Lenguajes\Proyecto Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Jan Garita\Desktop\Proyectos WEB\Lenguajes\Proyecto Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Jan Garita\Desktop\Proyectos WEB\Lenguajes\Proyecto Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Jan Garita\Desktop\Proyectos WEB\Lenguajes\Proyecto Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Jan Garita\Desktop\Proyectos WEB\Lenguajes\Proyecto Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Jan Garita\Desktop\Proyectos WEB\Lenguajes\Proyecto Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Jan Garita\Desktop\Proyectos WEB\Lenguajes\Proyecto Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Jan Garita\Desktop\Proyectos WEB\Lenguajes\Proyecto Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Jan Garita\Desktop\Proyectos WEB\Lenguajes\Proyecto Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Jan Garita\Desktop\Proyectos WEB\Lenguajes\Proyecto Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Jan Garita\Desktop\Proyectos WEB\Lenguajes\Proyecto Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Jan Garita\Desktop\Proyectos WEB\Lenguajes\Proyecto Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Jan Garita\Desktop\Proyectos WEB\Lenguajes\Proyecto Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Jan Garita\Desktop\Proyectos WEB\Lenguajes\Proyecto Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Jan Garita\Desktop\Proyectos WEB\Lenguajes\Proyecto Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jan Garita\Desktop\Proyectos WEB\Lenguajes\Proyecto Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Jan Garita\Desktop\Proyectos WEB\Lenguajes\Proyecto Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jan Garita\Desktop\Proyectos WEB\Lenguajes\Proyecto Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jan Garita\Desktop\Proyectos WEB\Lenguajes\Proyecto Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jan Garita\Desktop\Proyectos WEB\Lenguajes\Proyecto Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Jan Garita\Desktop\Proyectos WEB\Lenguajes\Proyecto Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Jan Garita\Desktop\Proyectos WEB\Lenguajes\Proyecto Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Jan Garita\Desktop\Proyectos WEB\Lenguajes\Proyecto Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Jan Garita\Desktop\Proyectos WEB\Lenguajes\Proyecto Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Jan Garita\Desktop\Proyectos WEB\Lenguajes\Proyecto Final\api_rest\api_rest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jan Garita\Desktop\Proyectos WEB\Lenguajes\Proyecto Final\api_rest\api_rest\obj\Debug\netcoreapp3.1\api_rest.csprojAssemblyReference.cache
+C:\Users\Jan Garita\Desktop\Proyectos WEB\Lenguajes\Proyecto Final\api_rest\api_rest\obj\Debug\netcoreapp3.1\api_rest.AssemblyInfoInputs.cache
+C:\Users\Jan Garita\Desktop\Proyectos WEB\Lenguajes\Proyecto Final\api_rest\api_rest\obj\Debug\netcoreapp3.1\api_rest.AssemblyInfo.cs
+C:\Users\Jan Garita\Desktop\Proyectos WEB\Lenguajes\Proyecto Final\api_rest\api_rest\obj\Debug\netcoreapp3.1\api_rest.csproj.CoreCompileInputs.cache
+C:\Users\Jan Garita\Desktop\Proyectos WEB\Lenguajes\Proyecto Final\api_rest\api_rest\obj\Debug\netcoreapp3.1\api_rest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jan Garita\Desktop\Proyectos WEB\Lenguajes\Proyecto Final\api_rest\api_rest\obj\Debug\netcoreapp3.1\api_rest.RazorTargetAssemblyInfo.cache
+C:\Users\Jan Garita\Desktop\Proyectos WEB\Lenguajes\Proyecto Final\api_rest\api_rest\obj\Debug\netcoreapp3.1\api_rest.csproj.CopyComplete
+C:\Users\Jan Garita\Desktop\Proyectos WEB\Lenguajes\Proyecto Final\api_rest\api_rest\obj\Debug\netcoreapp3.1\staticwebassets\api_rest.StaticWebAssets.Manifest.cache
+C:\Users\Jan Garita\Desktop\Proyectos WEB\Lenguajes\Proyecto Final\api_rest\api_rest\obj\Debug\netcoreapp3.1\staticwebassets\api_rest.StaticWebAssets.xml
+C:\Users\Jan Garita\Desktop\Proyectos WEB\Lenguajes\Proyecto Final\api_rest\api_rest\obj\Debug\netcoreapp3.1\api_rest.dll
+C:\Users\Jan Garita\Desktop\Proyectos WEB\Lenguajes\Proyecto Final\api_rest\api_rest\obj\Debug\netcoreapp3.1\api_rest.pdb
+C:\Users\Jan Garita\Desktop\Proyectos WEB\Lenguajes\Proyecto Final\api_rest\api_rest\obj\Debug\netcoreapp3.1\api_rest.genruntimeconfig.cache

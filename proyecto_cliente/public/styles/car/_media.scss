@@ -1,0 +1,37 @@
+@media only screen and (max-width: 991px) {
+    .bbb_deals {
+        width: 100%;
+        margin-right: 0;
+    }
+    .bbb_deals_slider_nav {
+        top: 20%;
+    }
+}
+@media only screen and (max-width: 575px) {
+    .bbb_deals {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .bbb_deals_title {
+        left: 6px;
+        font-size: 1.5rem !important;
+    }
+    .bbb_deals_slider_nav_container {
+        right: 0px;
+        top: 35px;
+    }
+    .bbb_deals_item_name,
+    .bbb_deals_item_price {
+        font-size: 20px;
+    }
+    .bbb_deals_item_category a,
+    .bbb_deals_item_price_a {
+        font-size: 12px;
+    }
+    .bbb_deals_slider_nav {
+        top: 8%;
+    }
+    #save-section{
+        left: 0 !important;
+    }
+}

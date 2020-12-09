@@ -1,0 +1,156 @@
+$main-color: #07b58c;
+$secondary-color: #ff6348;
+
+@mixin flex-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+body {
+    min-height: 100vh;
+    @include flex-center();
+    &::-webkit-scrollbar {
+        width: 0;
+    }
+}
+
+#backdrop {
+    position: fixed;
+    z-index: 0;
+    width: 110%;
+    height: 110%;
+    background-image: url("/images/login-backdrop.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    filter: blur(8px);
+}
+
+.container {
+    @include flex-center();
+    width: 70%;
+    padding: 0;
+
+    #logo {
+        position: absolute;
+        top: -15.4%;
+        width: 30%;
+        height: 30%;
+        z-index: 10;
+        background-image: url("/images/logo-AKJ.png");
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+    .row {
+        width: 100%;
+        nav {
+            & > .nav.nav-tabs {
+                border: none;
+                color: #fff;
+                background: #272e38;
+                border-radius: 0;
+            }
+            & > div a.nav-item.nav-link {
+                &.active {
+                    background: $secondary-color;
+                }
+                &,
+                &.active {
+                    position: relative;
+                    border: none;
+                    padding: 18px 25px;
+                    color: #fff;
+                    border-radius: 0;
+                    &.active:after {
+                        content: "";
+                        position: absolute;
+                        bottom: 0;
+                        left: 50%;
+                        transform: translate(-50%, 100%);
+                        border: 15px solid transparent;
+                        border-top-color: $secondary-color;
+                    }
+                }
+                &:hover,
+                &:focus {
+                    border: none;
+                    background: $secondary-color;
+                    color: #fff;
+                    border-radius: 0;
+                    transition: background 0.2s linear;
+                }
+            }
+        }
+
+        .login-content {
+            height: auto;
+            width: 100% !important;
+            padding: 0;
+
+            .tab-content {
+                width: 100%;
+                padding: 0;
+                margin: 0;
+                height: 88%;
+                background: #fdfdfd;
+                line-height: 25px;
+                border: 1px solid #ddd;
+                border-top: 5px solid $secondary-color;
+                border-bottom: 5px solid $secondary-color;
+                @include flex-center();
+                .tab-pane {
+                    @include flex-center();
+                    max-width: 70%;
+                    &:not(.active) {
+                        display: none;
+                    }
+                    .btn-container {
+                        @include flex-center();
+                        flex-direction: row;
+                        flex: 5px;
+                        width: 100%;
+                        .social-login-btn {
+                            margin: 0 5px;
+                            height: auto;
+                            width: 50%;
+                        }
+                    }
+                }
+            }
+            .divider-text {
+                position: relative;
+                text-align: center;
+                margin-top: 15px;
+                margin-bottom: 15px;
+                span {
+                    position: relative;
+                    padding: 7px;
+                    font-size: 14px;
+                    width: 30px !important;
+                    height: 30px !important;
+                    z-index: 2;
+                }
+                &:after {
+                    content: "";
+                    position: absolute;
+                    width: 300px;
+                    border-bottom: 1px solid #ddd;
+                    top: 55%;
+                    left: -135px;
+                    z-index: 1;
+                }
+            }
+            form {
+                width: 100% !important;
+            }
+            .login-btn,
+            .signup-btn {
+                background-color: $main-color;
+                border: 0;
+            }
+        }
+    }
+}
+@import "media";

@@ -1,0 +1,16 @@
+@mixin set_background($url, $is_fixed) {
+    background-image: url($url);
+    background-position: center;
+    background-size: cover;
+    @if $is_fixed {
+        background-attachment: fixed;
+    }
+}
+
+@mixin flex_center {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}

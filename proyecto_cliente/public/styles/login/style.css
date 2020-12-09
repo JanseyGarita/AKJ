@@ -1,0 +1,230 @@
+body {
+  min-height: 100vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+body::-webkit-scrollbar {
+  width: 0;
+}
+
+#backdrop {
+  position: fixed;
+  z-index: 0;
+  width: 110%;
+  height: 110%;
+  background-image: url("/images/login-backdrop.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  -webkit-filter: blur(8px);
+          filter: blur(8px);
+}
+
+.container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  width: 70%;
+  padding: 0;
+}
+
+.container #logo {
+  position: absolute;
+  top: -15.4%;
+  width: 30%;
+  height: 30%;
+  z-index: 10;
+  background-image: url("/images/logo-AKJ.png");
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.container .row {
+  width: 100%;
+}
+
+.container .row nav > .nav.nav-tabs {
+  border: none;
+  color: #fff;
+  background: #272e38;
+  border-radius: 0;
+}
+
+.container .row nav > div a.nav-item.nav-link.active {
+  background: #ff6348;
+}
+
+.container .row nav > div a.nav-item.nav-link, .container .row nav > div a.nav-item.nav-link.active {
+  position: relative;
+  border: none;
+  padding: 18px 25px;
+  color: #fff;
+  border-radius: 0;
+}
+
+.container .row nav > div a.nav-item.nav-link.active:after, .container .row nav > div a.nav-item.nav-link.active.active:after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  -webkit-transform: translate(-50%, 100%);
+          transform: translate(-50%, 100%);
+  border: 15px solid transparent;
+  border-top-color: #ff6348;
+}
+
+.container .row nav > div a.nav-item.nav-link:hover, .container .row nav > div a.nav-item.nav-link:focus {
+  border: none;
+  background: #ff6348;
+  color: #fff;
+  border-radius: 0;
+  -webkit-transition: background 0.2s linear;
+  transition: background 0.2s linear;
+}
+
+.container .row .login-content {
+  height: auto;
+  width: 100% !important;
+  padding: 0;
+}
+
+.container .row .login-content .tab-content {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  height: 88%;
+  background: #fdfdfd;
+  line-height: 25px;
+  border: 1px solid #ddd;
+  border-top: 5px solid #ff6348;
+  border-bottom: 5px solid #ff6348;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.container .row .login-content .tab-content .tab-pane {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  max-width: 70%;
+}
+
+.container .row .login-content .tab-content .tab-pane:not(.active) {
+  display: none;
+}
+
+.container .row .login-content .tab-content .tab-pane .btn-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  flex-direction: row;
+  -webkit-box-flex: 5px;
+      -ms-flex: 5px;
+          flex: 5px;
+  width: 100%;
+}
+
+.container .row .login-content .tab-content .tab-pane .btn-container .social-login-btn {
+  margin: 0 5px;
+  height: auto;
+  width: 50%;
+}
+
+.container .row .login-content .divider-text {
+  position: relative;
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.container .row .login-content .divider-text span {
+  position: relative;
+  padding: 7px;
+  font-size: 14px;
+  width: 30px !important;
+  height: 30px !important;
+  z-index: 2;
+}
+
+.container .row .login-content .divider-text:after {
+  content: "";
+  position: absolute;
+  width: 300px;
+  border-bottom: 1px solid #ddd;
+  top: 55%;
+  left: -135px;
+  z-index: 1;
+}
+
+.container .row .login-content form {
+  width: 100% !important;
+}
+
+.container .row .login-content .login-btn,
+.container .row .login-content .signup-btn {
+  background-color: #07b58c;
+  border: 0;
+}
+
+@media (max-width: 1080px) {
+  .container {
+    width: 100% !important;
+  }
+  .container .tab-pane {
+    max-width: 100% !important;
+  }
+}
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,185 @@
+$primary-color: #26a69a;
+html,body {
+    scroll-behavior: smooth;
+}
+.mt-50 {
+    margin-top: 50px;
+}
+.mb-50 {
+    margin-bottom: 50px;
+}
+.bg-teal-400 {
+    background-color: $primary-color;
+}
+a {
+    text-decoration: none !important;
+}
+.mb-3 {
+    font-size: 14px;
+    letter-spacing: 0.35px;
+}
+
+/*
+    SCROLL BAR
+*/
+/* scrollbar width */
+.card-body div {
+    &::-webkit-scrollbar {
+        width: 3px;
+    }
+    /* scrollbar track */
+    &::-webkit-scrollbar-track {
+        background: #eee;
+    }
+    /* scrollbar handle */
+    &::-webkit-scrollbar-thumb {
+        border-radius: 1rem;
+        background-color: #333;
+    }
+}
+
+/*
+    Accordion
+*/
+
+#accordion-style-1 h5,
+#accordion-style-1 a {
+    color: #007b5e;
+}
+#accordion-style-1 .btn-link {
+    font-weight: 400;
+    color: #007b5e;
+    background-color: transparent;
+    text-decoration: none !important;
+    font-size: 16px;
+    font-weight: bold;
+    padding-left: 25px;
+}
+
+#accordion-style-1 .card-body {
+    border-top: 2px solid #007b5e;
+}
+
+#accordion-style-1 .card-header .btn.collapsed .fa.main {
+    display: none;
+}
+
+#accordion-style-1 .card-header .btn .fa.main {
+    background: #007b5e;
+    padding: 13px 11px;
+    color: #ffffff;
+    width: 35px;
+    height: 41px;
+    position: absolute;
+    left: -1px;
+    top: 10px;
+    border-top-right-radius: 7px;
+    border-bottom-right-radius: 7px;
+    display: block;
+}
+.filter-btn {
+    i {
+        margin-right: 5px;
+    }
+}
+/*
+    Car cards
+*/
+.car {
+    position: relative !important;
+    left: 0 !important;
+    top: 0 !important;
+    min-width: 350px;
+    margin-left: 10px;
+    margin-top: 10px;
+    height: fit-content !important;
+    .save-btn {
+        right: 20px;
+        top: 45%;
+        i {
+            padding-top: 5px;
+        }
+    }
+    .img-header {
+        p {
+            display: none;
+        }
+        &:hover {
+            p {
+                transition: 0.4s;
+                display: block;
+            }
+            &::after {
+                content: "";
+                position: absolute;
+                left: 0;
+                top: 0;
+                width: 100%;
+                height: 190px;
+                transition: 0.4s;
+                background-color: rgba($color: #000, $alpha: 0.4);
+            }
+        }
+    }
+}
+
+/*
+    Pagination
+*/
+.isotope-pager {
+    padding: 15px;
+    text-align: center;
+    .pager {
+        padding: 5px 10px;
+        border: 0.5px solid #ddd;
+        border-radius: 5px;
+        text-decoration: none;
+        color: #ddd;
+        min-width: 35px;
+        margin: 0 5px;
+    }
+}
+
+.autos-section {
+    position: relative !important;
+    /*height: 100% !important;*/
+    .autos-container {
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+.bootstrap-slider .slider-selection {
+    background: #2175b0;
+}
+.btn-filter {
+    font-weight: bold;
+    text-transform: uppercase;
+    border: 1px solid #ddd;
+    padding: 5px 10px !important;
+    margin: 2px;
+    &:hover {
+        background-color: ccc;
+        text-shadow: 0 1px hsla(0, 0%, 100%, 0.5);
+        color: #222;
+    }
+    &:active,
+    &.is-checked {
+        background-color: #1b5885;
+        color: #fff;
+    }
+}
+
+.color-option {
+    position: relative;
+    width: 24px;
+    height: 24px;
+    border: 0.5px solid #ddd;
+    border-radius: 5px;
+}
+.current_page{
+    transition: 0.5s;
+    background-color: #232323;
+    color: white;
+}
+@import "_media";

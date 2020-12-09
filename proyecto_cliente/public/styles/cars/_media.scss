@@ -1,0 +1,15 @@
+@media (max-width: 480px) {
+    .autos-section {
+        height: none !important;
+        padding: 0;
+        .autos-container {
+            margin: 0;
+            justify-content: center;
+            align-items: center;
+            .car{
+                margin: 0;
+                width: 90% !important;
+            }
+        }
+    }
+}

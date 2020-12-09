@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\api_rest",
+    "\\api_rest\\bin\\Debug\\netcoreapp3.1\\Properties",
+    "\\api_rest\\bin\\Debug\\netcoreapp3.1\\runtimes",
+    "\\api_rest\\obj\\Debug",
+    "\\api_rest\\obj\\Release",
+    "\\api_rest\\obj\\Release\\netcoreapp3.1"
+  ],
+  "SelectedNode": "\\api_rest\\Controllers",
+  "PreviewInSolutionExplorer": false
+}

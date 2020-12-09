@@ -1,0 +1,22 @@
+@media (max-width: 1080px) {
+    .hero-container {
+        height: 75vh;
+    }
+    .promo-container {
+        min-height: 40vh;
+    }
+    #heart-icon {
+        font-size: 4rem !important;
+    }
+}
+
+@media (max-width: 768px){
+    .service-section{
+        img{
+            width: 35% !important;
+        }
+    }
+    .promo-container{
+        padding: 1.5em 0.5em 4em 0.5em;
+    }
+}

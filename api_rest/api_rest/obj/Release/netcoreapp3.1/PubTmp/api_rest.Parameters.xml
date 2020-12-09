@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="api-autos" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\xampp\\htdocs\\PROYECTO\ FINAL\\Proyecto-Final\\api_rest\\api_rest\\obj\\Release\\netcoreapp3\.1\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
