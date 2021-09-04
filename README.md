@@ -1,5 +1,5 @@
 # ProyectoFinal_lenguajes
-Esta es una copia del repositorio original en donde se trabajó un sistema de venta de autos como proyecto final del curso de Lenguajes para aplicaciones comerciales.
+AKJ es un sistema de venta de autos, desarrollado como proyecto final del curso de Lenguajes para aplicaciones comerciales.
 El proyecto se realizó utilizando Laravel, ASP.Net y SQL Server. Con ASP.Net se creó el API y en otro proyecto, se creó la aplicación como tal en Laravel.
 A la hora de la construcción del mismo, se tomó en cuenta el desarrollo por completo de la aplicación en Laravel, sin embargo, el uso de .Net era un requisito.
 
